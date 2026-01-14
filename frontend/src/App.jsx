@@ -1,11 +1,13 @@
-import StudentPage from "./pages/StudentPage";
+import React from 'react';
+import StudentPage from './pages/StudentPage';
+import MainLayout from './components/MainLayout'; // Import file vừa tạo
 
 function App() {
   return (
-    <div style={{ padding: "20px" }}>
-      <h1>🎓 Student Management</h1>
+    // Bọc toàn bộ ứng dụng trong MainLayout
+    <MainLayout>
       <StudentPage />
-    </div>
+    </MainLayout>
   );
 }
 
