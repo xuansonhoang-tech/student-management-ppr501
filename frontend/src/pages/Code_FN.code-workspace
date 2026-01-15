@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "Code_FN",
+			"path": "../../../.."
+		},
+		{
+			"name": "frontend",
+			"path": "../../../../../student-management-ppr501-main/frontend"
+		}
+	],
+	"settings": {}
+}

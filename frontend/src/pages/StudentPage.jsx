@@ -5,8 +5,6 @@ import { BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, Legend, Responsive
 
 /**
  * STYLE CONFIGURATION
- * Định nghĩa CSS-in-JS để đảm bảo tính nhất quán của giao diện.
- * Sử dụng MainLayout làm khung, component này chỉ lo phần nội dung.
  */
 const styles = {
     container: { padding: '0', color: '#333' },

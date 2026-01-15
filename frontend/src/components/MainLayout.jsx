@@ -10,7 +10,7 @@ const MainLayout = ({ children }) => {
       backgroundColor: '#f5f6fa'
     }}>
       
-      {/* HEADER: Siêu tối giản, chỉ còn Logo */}
+      {/* HEADER*/}
       <header style={{ 
         backgroundColor: '#2c3e50', 
         color: 'white', 
@@ -18,13 +18,13 @@ const MainLayout = ({ children }) => {
         height: '60px', 
         display: 'flex', 
         alignItems: 'center', 
-        justifyContent: 'center', // Căn giữa chữ UniManager
+        justifyContent: 'center',
         boxShadow: '0 2px 5px rgba(0,0,0,0.1)' 
       }}>
         <div style={{ fontSize: '20px', fontWeight: 'bold' }}>GROUP_4</div>
       </header>
 
-      {/* BODY: Chứa nội dung trang web */}
+      {/* BODY*/}
       <main style={{ 
         flex: 1, 
         width: '100%', 
@@ -35,7 +35,7 @@ const MainLayout = ({ children }) => {
         {children}
       </main>
 
-      {/* FOOTER: Đã đổi thành Group 4 */}
+      {/* FOOTER*/}
       <footer style={{ 
         textAlign: 'center', 
         padding: '15px', 
