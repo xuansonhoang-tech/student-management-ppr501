@@ -1,4 +1,4 @@
-student_id,last_name,first_name,email,date_of_birth,hometown,math_score,literature_score
+student_id,last_name,first_name,email,date_of_birth,hometown,math_score,english_score
 SV001,Nguyen1,Student1,student1@example.com,2003-03-25,Ha Noi,6.7,9.2
 SV002,Nguyen2,Student2,student2@example.com,2002-04-08,Ha Noi,5.9,9.5
 SV003,Nguyen3,Student3,student3@example.com,2005-01-31,Ha Noi,7.8,4.2
