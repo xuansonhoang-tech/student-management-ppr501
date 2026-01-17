@@ -12,5 +12,4 @@ class StudentModel(Base):
     hometown = Column(String(100))
 
     math_score = Column(Float)
-    literature_score = Column(Float)
     english_score = Column(Float)

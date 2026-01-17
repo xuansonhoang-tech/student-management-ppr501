@@ -11,7 +11,6 @@ class StudentModel(BaseModel):
     dob: Optional[str] = None
     hometown: Optional[str] = None
     math_score: Optional[float] = None
-    literature_score: Optional[float] = None
     english_score: Optional[float] = None
     
     def from_dict(data: Dict):
@@ -23,7 +22,6 @@ class StudentModel(BaseModel):
             dob=data.get("dob"),
             hometown=data.get("hometown"),
             math_score=_to_float(data.get("math_score")),
-            literature_score=_to_float(data.get("literature_score")),
             english_score=_to_float(data.get("english_score")),
         )
 
@@ -36,7 +34,6 @@ class StudentModel(BaseModel):
             "dob": self.dob,
             "hometown": self.hometown,
             "math_score": self.math_score,
-            "literature_score": self.literature_score,
             "english_score": self.english_score,
         }
 

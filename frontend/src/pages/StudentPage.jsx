@@ -265,12 +265,10 @@ const StudentPage = () => {
             <table style={styles.table}>
             <thead>
                 <tr>
-                    <th style={styles.tdCenter}>ID</th>
                     <th style={styles.th}>Full Name</th>
                     <th style={styles.th}>Email</th>
                     <th style={styles.th}>Hometown</th>
                     <th style={styles.tdCenter}>Math</th>
-                    <th style={styles.tdCenter}>Literature</th>
                     <th style={styles.tdCenter}>English</th>
                     {/* Chỉ hiện cột Actions khi ở chế độ Manage */}
                     {isEditMode && <th style={{ ...styles.th, textAlign: 'center', width: '150px' }}>Actions</th>}
@@ -282,12 +280,10 @@ const StudentPage = () => {
                 ) : (
                     students.map((st, idx) => (
                     <tr key={st.student_id} style={{ backgroundColor: idx % 2 === 0 ? 'white' : '#f8f9fa' }}>
-                        <td style={styles.tdCenter}>{st.student_id}</td>
                         <td style={styles.td}>{st.last_name} {st.first_name}</td>
                         <td style={styles.td}>{st.email}</td>
                         <td style={styles.td}>{st.hometown}</td>
                         <td style={styles.tdCenter}>{st.math_score}</td>
-                        <td style={styles.tdCenter}>{st.literature_score}</td>
                         <td style={styles.tdCenter}>{st.english_score}</td>
                         {isEditMode && (
                             <td style={{ ...styles.td, textAlign: 'center' }}>
