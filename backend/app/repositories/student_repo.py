@@ -30,7 +30,7 @@ class StudentRepository():
                         dob=row['date_of_birth'],
                         hometown=row['hometown'],
                         math_score=float(row['math_score']),
-                        literature_score=float(row['literature_score'])
+                        english_score=float(row['english_score'])
                     )
                     students.append(student)
             return BaseResponse(success=True, data=students)
