@@ -364,11 +364,11 @@ const StudentPage = () => {
               <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '15px' }}>
                 <div style={styles.formGroup}>
                     <label style={styles.label}>Student ID</label>
-                    <input required disabled={isEditing} style={styles.formInput} value={formData.student_id} onChange={(e) => setFormData({...formData, student_id: e.target.value})} />
+                    <input disabled={isEditing} style={styles.formInput} value={formData.student_id} onChange={(e) => setFormData({...formData, student_id: e.target.value})} />
                 </div>
                 <div style={styles.formGroup}>
                     <label style={styles.label}>Date of Birth</label>
-                    <input type="date" required style={styles.formInput} value={formData.dob} onChange={(e) => setFormData({...formData, dob: e.target.value})} />
+                    <input type="date" style={styles.formInput} value={formData.dob} onChange={(e) => setFormData({...formData, dob: e.target.value})} />
                 </div>
               </div>
               
@@ -376,22 +376,22 @@ const StudentPage = () => {
               <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: '15px' }}>
                 <div style={styles.formGroup}>
                     <label style={styles.label}>First Name</label>
-                    <input required style={styles.formInput} value={formData.first_name} onChange={(e) => setFormData({...formData, first_name: e.target.value})} />
+                    <input style={styles.formInput} value={formData.first_name} onChange={(e) => setFormData({...formData, first_name: e.target.value})} />
                 </div>
                 <div style={styles.formGroup}>
                     <label style={styles.label}>Last Name</label>
-                    <input required style={styles.formInput} value={formData.last_name} onChange={(e) => setFormData({...formData, last_name: e.target.value})} />
+                    <input style={styles.formInput} value={formData.last_name} onChange={(e) => setFormData({...formData, last_name: e.target.value})} />
                 </div>
               </div>
 
               {/* Row 3: Contact */}
               <div style={styles.formGroup}>
                   <label style={styles.label}>Email Address</label>
-                  <input type="email" required style={styles.formInput} value={formData.email} onChange={(e) => setFormData({...formData, email: e.target.value})} />
+                  <input type="email" style={styles.formInput} value={formData.email} onChange={(e) => setFormData({...formData, email: e.target.value})} />
               </div>
               <div style={styles.formGroup}>
                   <label style={styles.label}>Hometown</label>
-                  <input required style={styles.formInput} value={formData.hometown} onChange={(e) => setFormData({...formData, hometown: e.target.value})} />
+                  <input style={styles.formInput} value={formData.hometown} onChange={(e) => setFormData({...formData, hometown: e.target.value})} />
               </div>
 
               {/* Row 4: Scores */}
