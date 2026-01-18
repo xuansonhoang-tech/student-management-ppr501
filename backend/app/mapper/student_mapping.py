@@ -21,7 +21,6 @@ def to_entity(domain: Student) -> StudentModel:
         dob=dob,
         hometown=domain.hometown,
         math_score=domain.math_score,
-        literature_score=domain.literature_score,
         english_score=domain.english_score,
     )
 
@@ -34,6 +33,5 @@ def to_domain(entity: StudentModel) -> Student:
         dob=str(entity.dob) if entity.dob else None,
         hometown=entity.hometown,
         math_score=entity.math_score,
-        literature_score=entity.literature_score,
         english_score=entity.english_score,
     )
