@@ -70,7 +70,7 @@ const StudentPage = () => {
   const [isEditing, setIsEditing] = useState(false); // true: Edit Mode, false: Create Mode
   const [formData, setFormData] = useState({
     student_id: "", first_name: "", last_name: "", email: "", 
-    hometown: "", dob: "", math_score: 0, literature_score: 0, english_score: 0
+    hometown: "", dob: "", math_score: null, literature_score: null, english_score: null
   });
 
   // --- API SERVICE FUNCTIONS ---
@@ -270,6 +270,7 @@ const StudentPage = () => {
                     <th style={styles.th}>Hometown</th>
                     <th style={styles.tdCenter}>Math</th>
                     <th style={styles.tdCenter}>English</th>
+                    <th style={styles.tdCenter}>Literature</th>
                     {/* Chỉ hiện cột Actions khi ở chế độ Manage */}
                     {isEditMode && <th style={{ ...styles.th, textAlign: 'center', width: '150px' }}>Actions</th>}
                 </tr>
@@ -283,9 +284,9 @@ const StudentPage = () => {
                         <td style={styles.td}>{st.last_name} {st.first_name}</td>
                         <td style={styles.td}>{st.email}</td>
                         <td style={styles.td}>{st.hometown}</td>
-                        <td style={styles.tdCenter}>{st.math_score}</td>
-                        <td style={styles.tdCenter}>{st.english_score}</td>
-                        <td style={styles.tdCenter}>{st.literature_score}</td>
+                        <td style={styles.tdCenter}>{st.math_score === null ? 'N/A' : st.math_score}</td>
+                        <td style={styles.tdCenter}>{st.english_score === null ? 'N/A' : st.english_score}</td>
+                        <td style={styles.tdCenter}>{st.literature_score === null ? 'N/A' : st.literature_score}</td>
                         {isEditMode && (
                             <td style={{ ...styles.td, textAlign: 'center' }}>
                                 <button onClick={() => handleOpenEdit(st)} style={styles.btnEdit}>Edit</button>
@@ -395,19 +396,19 @@ const StudentPage = () => {
                   <input style={styles.formInput} value={formData.hometown} onChange={(e) => setFormData({...formData, hometown: e.target.value})} />
               </div>
 
-              {/* Row 4: Scores */}
+              {/* Row 4: Scores allow for null */}
               <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr 1fr', gap: '10px' }}>
                 <div style={styles.formGroup}>
                     <label style={styles.label}>Math</label>
-                    <input type="number" step="0.1" style={styles.formInput} value={formData.math_score} onChange={(e) => setFormData({...formData, math_score: Number(e.target.value)})} />
+                    <input type="number" step="0.1" style={styles.formInput} value={formData.math_score ?? ''} onChange={(e) => setFormData({...formData, math_score: e.target.value === '' ? null : Number(e.target.value)})} />
                 </div>
                 <div style={styles.formGroup}>
                     <label style={styles.label}>Literature</label>
-                    <input type="number" step="0.1" style={styles.formInput} value={formData.literature_score} onChange={(e) => setFormData({...formData, literature_score: Number(e.target.value)})} />
+                    <input type="number" step="0.1" style={styles.formInput} value={formData.literature_score ?? ''} onChange={(e) => setFormData({...formData, literature_score: e.target.value === '' ? null : Number(e.target.value)})} />
                 </div>
                 <div style={styles.formGroup}>
                     <label style={styles.label}>English</label>
-                    <input type="number" step="0.1" style={styles.formInput} value={formData.english_score} onChange={(e) => setFormData({...formData, english_score: Number(e.target.value)})} />
+                    <input type="number" step="0.1" style={styles.formInput} value={formData.english_score ?? ''} onChange={(e) => setFormData({...formData, english_score: e.target.value === '' ? null : Number(e.target.value)})} />
                 </div>
               </div>
 
