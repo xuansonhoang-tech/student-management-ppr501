@@ -16,10 +16,10 @@ class StudentRepository():
     def __init__(self, session_factory: Callable[[], AsyncSession]):
         self.session_factory = session_factory
     
-    async def load_students(self) -> BaseResponse[StudentModel]:
+    async def load_students(self, file_path: str) -> BaseResponse[StudentModel]:
         students: List[StudentModel] = []
         try:
-            with DATA_FILE.open(mode='r', encoding='utf-8') as file:
+            with Path(file_path).open(mode='r', encoding='utf-8') as file:
                 reader = csv.DictReader(file)
                 for row in reader:  
                     student = StudentModel(
@@ -29,8 +29,9 @@ class StudentRepository():
                         email=row['email'],
                         dob=row['date_of_birth'],
                         hometown=row['hometown'],
-                        math_score=float(row['math_score']),
-                        english_score=float(row['english_score'])
+                        math_score=float(row['math_score']) if row['math_score'].strip() else None,
+                        english_score=float(row['english_score']) if row['english_score'].strip() else None,
+                        literature_score=float(row['literature_score']) if row['literature_score'].strip() else None,
                     )
                     students.append(student)
             return BaseResponse(success=True, data=students)

@@ -13,3 +13,4 @@ class StudentModel(Base):
 
     math_score = Column(Float)
     english_score = Column(Float)
+    literature_score = Column(Float)

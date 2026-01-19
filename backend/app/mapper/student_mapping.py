@@ -22,6 +22,7 @@ def to_entity(domain: Student) -> StudentModel:
         hometown=domain.hometown,
         math_score=domain.math_score,
         english_score=domain.english_score,
+        literature_score = domain.literature_score
     )
 
 def to_domain(entity: StudentModel) -> Student:
@@ -34,4 +35,5 @@ def to_domain(entity: StudentModel) -> Student:
         hometown=entity.hometown,
         math_score=entity.math_score,
         english_score=entity.english_score,
+        literature_score = entity.literature_score
     )

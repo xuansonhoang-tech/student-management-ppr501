@@ -12,6 +12,7 @@ class StudentModel(BaseModel):
     hometown: Optional[str] = None
     math_score: Optional[float] = None
     english_score: Optional[float] = None
+    literature_score: Optional[float] = None
     
     def from_dict(data: Dict):
         return StudentModel(
@@ -23,6 +24,7 @@ class StudentModel(BaseModel):
             hometown=data.get("hometown"),
             math_score=_to_float(data.get("math_score")),
             english_score=_to_float(data.get("english_score")),
+            literature_score=_to_float(data.get("literature_score")),
         )
 
     def to_dict(self) -> Dict:
@@ -35,6 +37,7 @@ class StudentModel(BaseModel):
             "hometown": self.hometown,
             "math_score": self.math_score,
             "english_score": self.english_score,
+            "literature_score": self.literature_score,
         }
 
 

@@ -9,7 +9,7 @@ class StudentService:
         self.student_repo = student_repo
     
     async def load_students(self):
-        return await self.student_repo.load_students()
+        return await self.student_repo.load_students(file_path="seeds/students_100.csv")
     
     async def insert_students(self, students: List[StudentModel]) -> BaseResponse[StudentModel]:
         print('go to here')
