@@ -4,12 +4,12 @@ from pydantic import BaseModel, ConfigDict
 T = TypeVar("T")
 
 class BaseResponse(BaseModel, Generic[T]): 
-    data: Optional[List[T]] = None
     page_size: int = 0
     page_number: int = 0
     total_records: int = 0
     error: Optional[List[str]] = None
     success: bool = True
+    data: Optional[List[T]] = None
     
     model_config = ConfigDict(arbitrary_types_allowed=True, from_attributes=True)
 

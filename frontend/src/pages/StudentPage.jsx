@@ -285,6 +285,7 @@ const StudentPage = () => {
                         <td style={styles.td}>{st.hometown}</td>
                         <td style={styles.tdCenter}>{st.math_score}</td>
                         <td style={styles.tdCenter}>{st.english_score}</td>
+                        <td style={styles.tdCenter}>{st.literature_score}</td>
                         {isEditMode && (
                             <td style={{ ...styles.td, textAlign: 'center' }}>
                                 <button onClick={() => handleOpenEdit(st)} style={styles.btnEdit}>Edit</button>
