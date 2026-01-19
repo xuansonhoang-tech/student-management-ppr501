@@ -1,5 +1,5 @@
 student_id,last_name,first_name,email,date_of_birth,hometown,math_score,english_score,literature_score
-SV001,Vu,Hanh,hanh.vu1@student.edu.vn,2004-05-08,Da Nang,,,
+SV001,Vu,Hanh,hanh.vu1@student.edu.vn,2004-05-08,Da Nang,10,10,10
 SV002,Tran,Trang,trang.tran2@student.edu.vn,2000-08-28,Hanoi,7.42,7.58,6.92
 SV003,Nguyen,Khanh,khanh.nguyen3@student.edu.vn,2003-08-04,Hanoi,7.57,4.74,6.21
 SV004,Nguyen,Binh,binh.nguyen4@student.edu.vn,2008-10-19,Da Nang,8.68,,7.56
