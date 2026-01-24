@@ -1,0 +1,101 @@
+first_name,last_name,email,hometown,math_score,english_score,literature_score
+Vu,Hanh,hanh.vu1@student.edu.vn,Da Nang,8.9,8.4,7.6
+Tran,Trang,trang.tran2@student.edu.vn,Hanoi,7.1,7.4,6.8
+Nguyen,Khanh,khanh.nguyen3@student.edu.vn,Hanoi,4.2,4.8,4.5
+Nguyen,Binh,binh.nguyen4@student.edu.vn,Da Nang,7.6,6.9,7.2
+Pham,Hanh,hanh.pham5@student.edu.vn,Ho Chi Minh,6.5,6.5,6.6
+Hoang,Nam,nam.hoang6@student.edu.vn,Can Tho,6.1,5.8,5.9
+Hoang,Nam,nam.hoang7@student.edu.vn,Can Tho,8.8,6.1,6.4
+Hoang,Trang,trang.hoang8@student.edu.vn,Hai Phong,6.0,5.5,6.7
+Phan,Dung,dung.phan9@student.edu.vn,Ho Chi Minh,6.4,8.6,6.1
+Pham,Chi,chi.pham10@student.edu.vn,Ho Chi Minh,6.5,6.5,6.6
+Phan,Minh,minh.phan11@student.edu.vn,Hai Phong,6.3,7.2,8.5
+Tran,Dung,dung.tran12@student.edu.vn,Ho Chi Minh,8.7,6.4,6.2
+Do,Hanh,hanh.do13@student.edu.vn,Ho Chi Minh,6.2,5.9,6.0
+Tran,Nam,nam.tran14@student.edu.vn,Hai Phong,6.0,5.7,8.3
+Le,An,an.le15@student.edu.vn,Ho Chi Minh,6.5,6.5,6.6
+Hoang,Trang,trang.hoang16@student.edu.vn,Hanoi,6.4,5.8,5.6
+Tran,Chi,chi.tran17@student.edu.vn,Hanoi,8.5,6.2,7.4
+Bui,Linh,linh.bui18@student.edu.vn,Hai Phong,5.2,6.8,9.1
+Dang,An,an.dang19@student.edu.vn,Hai Phong,5.8,4.9,5.6
+Bui,Chi,chi.bui20@student.edu.vn,Ho Chi Minh,5.9,5.6,5.8
+Vu,Khanh,khanh.vu21@student.edu.vn,Can Tho,6.0,6.4,6.2
+Hoang,Binh,binh.hoang22@student.edu.vn,Can Tho,6.1,5.9,8.2
+Nguyen,Dung,dung.nguyen23@student.edu.vn,Da Nang,9.4,4.2,6.1
+Tran,Khanh,khanh.tran24@student.edu.vn,Ho Chi Minh,9.2,8.7,9.0
+Pham,An,an.pham25@student.edu.vn,Can Tho,5.7,5.8,6.3
+Dang,Binh,binh.dang26@student.edu.vn,Hai Phong,5.9,6.0,6.4
+Le,Trang,trang.le27@student.edu.vn,Hanoi,5.6,4.3,5.8
+Tran,Trang,trang.tran28@student.edu.vn,Hanoi,6.6,6.1,6.2
+Hoang,Dung,dung.hoang29@student.edu.vn,Hai Phong,7.0,8.8,4.4
+Pham,Minh,minh.pham30@student.edu.vn,Ho Chi Minh,8.6,7.5,6.8
+Vu,Nam,nam.vu31@student.edu.vn,Ho Chi Minh,6.2,6.1,5.9
+Phan,Linh,linh.phan32@student.edu.vn,Hai Phong,5.8,5.2,5.1
+Do,Trang,trang.do33@student.edu.vn,Da Nang,6.1,5.4,8.9
+Pham,Minh,minh.pham34@student.edu.vn,Ho Chi Minh,6.9,5.8,9.5
+Hoang,Khanh,khanh.hoang35@student.edu.vn,Can Tho,6.0,5.9,6.1
+Dang,Trang,trang.dang36@student.edu.vn,Hai Phong,6.3,8.4,6.2
+Do,Linh,linh.do37@student.edu.vn,Ho Chi Minh,5.9,5.8,6.0
+Le,Dung,dung.le38@student.edu.vn,Hai Phong,6.4,8.7,7.8
+Le,Minh,minh.le39@student.edu.vn,Ho Chi Minh,5.7,5.6,5.1
+Nguyen,Linh,linh.nguyen40@student.edu.vn,Can Tho,6.2,6.0,9.9
+Hoang,An,an.hoang41@student.edu.vn,Da Nang,6.1,5.9,7.6
+Hoang,Nam,nam.hoang42@student.edu.vn,Hai Phong,5.8,5.7,5.9
+Bui,Chi,chi.bui43@student.edu.vn,Ho Chi Minh,6.0,5.8,5.9
+Hoang,Dung,dung.hoang44@student.edu.vn,Can Tho,6.2,8.3,6.1
+Le,Linh,linh.le45@student.edu.vn,Ho Chi Minh,5.9,5.7,6.0
+Pham,Khanh,khanh.pham46@student.edu.vn,Hai Phong,6.0,8.1,6.2
+Tran,Khanh,khanh.tran47@student.edu.vn,Hai Phong,5.8,5.6,5.9
+Phan,An,an.phan48@student.edu.vn,Ho Chi Minh,6.2,8.9,6.0
+Nguyen,Minh,minh.nguyen49@student.edu.vn,Hai Phong,7.1,9.3,4.3
+Tran,Nam,nam.tran50@student.edu.vn,Da Nang,5.9,5.1,5.8
+Do,Nam,nam.do51@student.edu.vn,Da Nang,6.0,5.9,7.3
+Nguyen,Dung,dung.nguyen52@student.edu.vn,Ho Chi Minh,6.3,6.1,9.2
+Le,Trang,trang.le53@student.edu.vn,Da Nang,5.8,5.9,6.0
+Le,Dung,dung.le54@student.edu.vn,Hanoi,7.1,6.0,8.2
+Tran,Linh,linh.tran55@student.edu.vn,Ho Chi Minh,6.4,5.9,7.8
+Phan,Binh,binh.phan56@student.edu.vn,Hanoi,6.2,8.8,6.1
+Vu,Khanh,khanh.vu57@student.edu.vn,Hai Phong,6.1,7.5,6.2
+Tran,Binh,binh.tran58@student.edu.vn,Hai Phong,6.0,5.7,6.1
+Bui,Minh,minh.bui59@student.edu.vn,Hai Phong,5.8,5.9,6.3
+Dang,Minh,minh.dang60@student.edu.vn,Da Nang,3.9,6.1,5.8
+Bui,Dung,dung.bui61@student.edu.vn,Da Nang,7.3,6.2,6.8
+Do,Minh,minh.do62@student.edu.vn,Hai Phong,5.7,4.8,5.6
+Tran,Trang,trang.tran63@student.edu.vn,Hanoi,6.0,5.8,4.4
+Le,Binh,binh.le64@student.edu.vn,Hanoi,6.1,6.5,8.7
+Le,Chi,chi.le65@student.edu.vn,Ho Chi Minh,6.2,5.9,6.0
+Vu,Nam,nam.vu66@student.edu.vn,Da Nang,9.6,6.4,8.9
+Tran,Chi,chi.tran67@student.edu.vn,Can Tho,4.6,5.9,5.7
+Bui,Khanh,khanh.bui68@student.edu.vn,Can Tho,6.0,6.2,9.1
+Pham,Binh,binh.pham69@student.edu.vn,Can Tho,8.7,7.2,6.4
+Hoang,Khanh,khanh.hoang70@student.edu.vn,Hanoi,6.1,5.9,6.0
+Phan,Trang,trang.phan71@student.edu.vn,Can Tho,5.9,5.8,6.0
+Do,Linh,linh.do72@student.edu.vn,Da Nang,5.8,5.9,6.1
+Bui,Chi,chi.bui73@student.edu.vn,Da Nang,6.4,9.0,9.3
+Hoang,Chi,chi.hoang74@student.edu.vn,Ho Chi Minh,4.5,5.8,5.4
+Dang,Trang,trang.dang75@student.edu.vn,Da Nang,7.0,6.1,6.2
+Hoang,Minh,minh.hoang76@student.edu.vn,Can Tho,5.9,5.7,4.8
+Bui,Minh,minh.bui77@student.edu.vn,Hanoi,6.0,6.5,5.6
+Tran,Binh,binh.tran78@student.edu.vn,Hanoi,6.1,6.0,8.8
+Nguyen,Trang,trang.nguyen79@student.edu.vn,Hai Phong,5.9,8.5,4.6
+Vu,Nam,nam.vu80@student.edu.vn,Ho Chi Minh,6.3,7.0,6.1
+Bui,Trang,trang.bui81@student.edu.vn,Hanoi,9.1,6.2,5.0
+Tran,Nam,nam.tran82@student.edu.vn,Hanoi,6.1,7.6,6.0
+Vu,Hanh,hanh.vu83@student.edu.vn,Can Tho,6.0,5.9,6.1
+Vu,Chi,chi.vu84@student.edu.vn,Hanoi,8.4,4.5,6.3
+Dang,An,an.dang85@student.edu.vn,Hai Phong,8.9,7.1,5.6
+Phan,Dung,dung.phan86@student.edu.vn,Hanoi,6.2,5.9,6.1
+Nguyen,Chi,chi.nguyen87@student.edu.vn,Can Tho,5.8,5.7,5.9
+Dang,An,an.dang88@student.edu.vn,Da Nang,7.8,4.9,6.0
+Tran,Trang,trang.tran89@student.edu.vn,Can Tho,6.2,8.8,8.1
+Phan,Trang,trang.phan90@student.edu.vn,Hai Phong,5.0,5.8,5.7
+Phan,Chi,chi.phan91@student.edu.vn,Da Nang,7.4,6.0,8.3
+Pham,An,an.pham92@student.edu.vn,Can Tho,4.3,5.8,4.9
+Tran,Dung,dung.tran93@student.edu.vn,Hanoi,8.5,6.0,4.4
+Tran,Hanh,hanh.tran94@student.edu.vn,Hai Phong,5.9,5.6,6.0
+Tran,Linh,linh.tran95@student.edu.vn,Hai Phong,6.0,6.4,6.1
+Tran,Linh,linh.tran96@student.edu.vn,Da Nang,6.1,6.6,6.2
+Le,Hanh,hanh.le97@student.edu.vn,Hai Phong,6.3,6.6,6.2
+Do,Khanh,khanh.do98@student.edu.vn,Hai Phong,9.7,6.2,6.8
+Vu,An,an.vu99@student.edu.vn,Da Nang,6.0,5.9,6.1
+Vu,An,an.vu100@student.edu.vn,Hanoi,5.8,6.0,5.7

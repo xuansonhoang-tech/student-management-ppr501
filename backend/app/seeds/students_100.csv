@@ -1,101 +1,101 @@
 student_id,last_name,first_name,email,date_of_birth,hometown,math_score,english_score,literature_score
-SV001,Vu,Hanh,hanh.vu1@student.edu.vn,2004-05-08,Da Nang,,,
-SV002,Tran,Trang,trang.tran2@student.edu.vn,2000-08-28,Hanoi,7.42,7.58,6.92
-SV003,Nguyen,Khanh,khanh.nguyen3@student.edu.vn,2003-08-04,Hanoi,7.57,4.74,6.21
-SV004,Nguyen,Binh,binh.nguyen4@student.edu.vn,2008-10-19,Da Nang,8.68,,7.56
+SV001,Vu,Hanh,hanh.vu1@student.edu.vn,2004-05-08,Da Nang,8.9,8.4,7.6
+SV002,Tran,Trang,trang.tran2@student.edu.vn,2000-08-28,Hanoi,7.1,7.4,6.8
+SV003,Nguyen,Khanh,khanh.nguyen3@student.edu.vn,2003-08-04,Hanoi,4.2,4.8,4.5
+SV004,Nguyen,Binh,binh.nguyen4@student.edu.vn,2008-10-19,Da Nang,7.6,6.9,7.2
 SV005,Pham,Hanh,hanh.pham5@student.edu.vn,2006-03-19,Ho Chi Minh,,,
-SV006,Hoang,Nam,nam.hoang6@student.edu.vn,2006-10-20,Can Tho,6.71,,
-SV007,Hoang,Nam,nam.hoang7@student.edu.vn,2004-08-03,Can Tho,9.52,,7.06
-SV008,Hoang,Trang,trang.hoang8@student.edu.vn,2006-10-08,Hai Phong,,,6.3
-SV009,Phan,Dung,dung.phan9@student.edu.vn,1999-10-15,Ho Chi Minh,,9.24,
+SV006,Hoang,Nam,nam.hoang6@student.edu.vn,2006-10-20,Can Tho,6.1,5.8,5.9
+SV007,Hoang,Nam,nam.hoang7@student.edu.vn,2004-08-03,Can Tho,8.8,6.1,6.4
+SV008,Hoang,Trang,trang.hoang8@student.edu.vn,2006-10-08,Hai Phong,6.0,5.5,6.7
+SV009,Phan,Dung,dung.phan9@student.edu.vn,1999-10-15,Ho Chi Minh,6.4,8.6,6.1
 SV010,Pham,Chi,chi.pham10@student.edu.vn,2006-10-04,Ho Chi Minh,,,
-SV011,Phan,Minh,minh.phan11@student.edu.vn,2005-08-29,Hai Phong,,7.54,9.28
-SV012,Tran,Dung,dung.tran12@student.edu.vn,2006-03-08,Ho Chi Minh,9.69,,
-SV013,Do,Hanh,hanh.do13@student.edu.vn,2002-04-09,Ho Chi Minh,,,
-SV014,Tran,Nam,nam.tran14@student.edu.vn,2003-11-19,Hai Phong,,,8.58
+SV011,Phan,Minh,minh.phan11@student.edu.vn,2005-08-29,Hai Phong,6.3,7.2,8.5
+SV012,Tran,Dung,dung.tran12@student.edu.vn,2006-03-08,Ho Chi Minh,8.7,6.4,6.2
+SV013,Do,Hanh,hanh.do13@student.edu.vn,2002-04-09,Ho Chi Minh,6.2,5.9,6.0
+SV014,Tran,Nam,nam.tran14@student.edu.vn,2003-11-19,Hai Phong,6.0,5.7,8.3
 SV015,Le,An,an.le15@student.edu.vn,2008-07-27,Ho Chi Minh,,,
-SV016,Hoang,Trang,trang.hoang16@student.edu.vn,2006-07-11,Hanoi,6.53,,5.6
-SV017,Tran,Chi,chi.tran17@student.edu.vn,2007-06-22,Hanoi,9.41,,7.41
-SV018,Bui,Linh,linh.bui18@student.edu.vn,2008-12-12,Hai Phong,4.85,8.66,7.24
-SV019,Dang,An,an.dang19@student.edu.vn,2005-05-06,Hai Phong,,4.6,
-SV020,Bui,Chi,chi.bui20@student.edu.vn,2000-05-12,Ho Chi Minh,5.63,5.28,
-SV021,Vu,Khanh,khanh.vu21@student.edu.vn,2004-09-18,Can Tho,,6.19,6.06
-SV022,Hoang,Binh,binh.hoang22@student.edu.vn,2006-11-04,Can Tho,,,8.38
-SV023,Nguyen,Dung,dung.nguyen23@student.edu.vn,1998-01-05,Da Nang,9.1,4.88,
-SV024,Tran,Khanh,khanh.tran24@student.edu.vn,2002-09-04,Ho Chi Minh,9.75,8.76,9.61
-SV025,Pham,An,an.pham25@student.edu.vn,1998-08-03,Can Tho,,,6.39
-SV026,Dang,Binh,binh.dang26@student.edu.vn,2008-01-21,Hai Phong,,,6.39
-SV027,Le,Trang,trang.le27@student.edu.vn,2007-01-23,Hanoi,,4.14,
+SV016,Hoang,Trang,trang.hoang16@student.edu.vn,2006-07-11,Hanoi,6.4,5.8,5.6
+SV017,Tran,Chi,chi.tran17@student.edu.vn,2007-06-22,Hanoi,8.5,6.2,7.4
+SV018,Bui,Linh,linh.bui18@student.edu.vn,2008-12-12,Hai Phong,5.2,6.8,9.1
+SV019,Dang,An,an.dang19@student.edu.vn,2005-05-06,Hai Phong,5.8,4.9,5.6
+SV020,Bui,Chi,chi.bui20@student.edu.vn,2000-05-12,Ho Chi Minh,5.9,5.6,5.8
+SV021,Vu,Khanh,khanh.vu21@student.edu.vn,2004-09-18,Can Tho,6.0,6.4,6.2
+SV022,Hoang,Binh,binh.hoang22@student.edu.vn,2006-11-04,Can Tho,6.1,5.9,8.2
+SV023,Nguyen,Dung,dung.nguyen23@student.edu.vn,1998-01-05,Da Nang,9.4,4.2,6.1
+SV024,Tran,Khanh,khanh.tran24@student.edu.vn,2002-09-04,Ho Chi Minh,9.2,8.7,9.0
+SV025,Pham,An,an.pham25@student.edu.vn,1998-08-03,Can Tho,5.7,5.8,6.3
+SV026,Dang,Binh,binh.dang26@student.edu.vn,2008-01-21,Hai Phong,5.9,6.0,6.4
+SV027,Le,Trang,trang.le27@student.edu.vn,2007-01-23,Hanoi,5.6,4.3,5.8
 SV028,Tran,Trang,trang.tran28@student.edu.vn,1999-01-21,Hanoi,,,
-SV029,Hoang,Dung,dung.hoang29@student.edu.vn,2001-05-20,Hai Phong,7.46,9.11,4.62
-SV030,Pham,Minh,minh.pham30@student.edu.vn,2002-03-08,Ho Chi Minh,9.27,7.78,
-SV031,Vu,Nam,nam.vu31@student.edu.vn,2001-06-29,Ho Chi Minh,,5.87,
-SV032,Phan,Linh,linh.phan32@student.edu.vn,1999-04-30,Hai Phong,,5.07,5.04
-SV033,Do,Trang,trang.do33@student.edu.vn,2005-05-28,Da Nang,,5.47,9.39
-SV034,Pham,Minh,minh.pham34@student.edu.vn,2007-09-23,Ho Chi Minh,7.07,,9.99
-SV035,Hoang,Khanh,khanh.hoang35@student.edu.vn,2004-01-19,Can Tho,,,
-SV036,Dang,Trang,trang.dang36@student.edu.vn,2004-09-12,Hai Phong,6.45,8.72,
-SV037,Do,Linh,linh.do37@student.edu.vn,2003-02-27,Ho Chi Minh,,,
-SV038,Le,Dung,dung.le38@student.edu.vn,1999-12-03,Hai Phong,,9.39,7.9
-SV039,Le,Minh,minh.le39@student.edu.vn,2004-09-16,Ho Chi Minh,,,5.0
-SV040,Nguyen,Linh,linh.nguyen40@student.edu.vn,2008-12-02,Can Tho,,,9.88
-SV041,Hoang,An,an.hoang41@student.edu.vn,2008-07-05,Da Nang,,,7.94
-SV042,Hoang,Nam,nam.hoang42@student.edu.vn,2004-07-25,Hai Phong,,,
-SV043,Bui,Chi,chi.bui43@student.edu.vn,1999-05-19,Ho Chi Minh,6.17,,
-SV044,Hoang,Dung,dung.hoang44@student.edu.vn,2007-05-11,Can Tho,,8.4,
-SV045,Le,Linh,linh.le45@student.edu.vn,2005-01-02,Ho Chi Minh,,,
-SV046,Pham,Khanh,khanh.pham46@student.edu.vn,2008-04-28,Hai Phong,,8.26,
-SV047,Tran,Khanh,khanh.tran47@student.edu.vn,1999-03-14,Hai Phong,,,
-SV048,Phan,An,an.phan48@student.edu.vn,2003-04-18,Ho Chi Minh,6.29,9.14,
-SV049,Nguyen,Minh,minh.nguyen49@student.edu.vn,2001-07-27,Hai Phong,8.65,9.67,4.22
-SV050,Tran,Nam,nam.tran50@student.edu.vn,1998-01-06,Da Nang,,4.99,
-SV051,Do,Nam,nam.do51@student.edu.vn,2006-05-06,Da Nang,,,7.47
-SV052,Nguyen,Dung,dung.nguyen52@student.edu.vn,2005-01-29,Ho Chi Minh,,,9.3
-SV053,Le,Trang,trang.le53@student.edu.vn,2002-03-13,Da Nang,,,
-SV054,Le,Dung,dung.le54@student.edu.vn,2007-06-06,Hanoi,7.73,,8.56
-SV055,Tran,Linh,linh.tran55@student.edu.vn,2004-01-03,Ho Chi Minh,6.34,5.9,8.22
-SV056,Phan,Binh,binh.phan56@student.edu.vn,2007-12-15,Hanoi,,9.26,
-SV057,Vu,Khanh,khanh.vu57@student.edu.vn,2003-11-20,Hai Phong,,7.98,
-SV058,Tran,Binh,binh.tran58@student.edu.vn,2005-02-13,Hai Phong,6.4,5.5,
-SV059,Bui,Minh,minh.bui59@student.edu.vn,2007-02-17,Hai Phong,5.54,,6.43
-SV060,Dang,Minh,minh.dang60@student.edu.vn,1999-11-15,Da Nang,4.17,6.19,
-SV061,Bui,Dung,dung.bui61@student.edu.vn,2001-08-13,Da Nang,7.84,,6.71
-SV062,Do,Minh,minh.do62@student.edu.vn,1999-07-04,Hai Phong,,4.75,
-SV063,Tran,Trang,trang.tran63@student.edu.vn,2000-11-04,Hanoi,6.08,,4.32
-SV064,Le,Binh,binh.le64@student.edu.vn,1999-03-15,Hanoi,,6.61,8.94
-SV065,Le,Chi,chi.le65@student.edu.vn,1998-12-24,Ho Chi Minh,6.48,,6.14
-SV066,Vu,Nam,nam.vu66@student.edu.vn,2001-05-23,Da Nang,9.35,,8.86
-SV067,Tran,Chi,chi.tran67@student.edu.vn,1998-12-02,Can Tho,4.41,5.86,
-SV068,Bui,Khanh,khanh.bui68@student.edu.vn,2005-08-05,Can Tho,,,9.24
-SV069,Pham,Binh,binh.pham69@student.edu.vn,1998-11-13,Can Tho,9.15,7.29,
-SV070,Hoang,Khanh,khanh.hoang70@student.edu.vn,2008-09-11,Hanoi,6.34,,
-SV071,Phan,Trang,trang.phan71@student.edu.vn,2002-03-03,Can Tho,,,
-SV072,Do,Linh,linh.do72@student.edu.vn,2002-11-20,Da Nang,,,
-SV073,Bui,Chi,chi.bui73@student.edu.vn,1998-01-20,Da Nang,,8.83,9.27
-SV074,Hoang,Chi,chi.hoang74@student.edu.vn,2001-04-28,Ho Chi Minh,4.38,,5.38
-SV075,Dang,Trang,trang.dang75@student.edu.vn,2007-03-18,Da Nang,7.33,,
-SV076,Hoang,Minh,minh.hoang76@student.edu.vn,2002-03-22,Can Tho,,,4.7
-SV077,Bui,Minh,minh.bui77@student.edu.vn,1998-07-08,Hanoi,,6.54,5.57
-SV078,Tran,Binh,binh.tran78@student.edu.vn,2004-10-17,Hanoi,,,9.03
-SV079,Nguyen,Trang,trang.nguyen79@student.edu.vn,2005-04-23,Hai Phong,,8.76,4.49
-SV080,Vu,Nam,nam.vu80@student.edu.vn,2007-10-03,Ho Chi Minh,6.69,7.12,
-SV081,Bui,Trang,trang.bui81@student.edu.vn,2008-01-26,Hanoi,9.42,,4.98
-SV082,Tran,Nam,nam.tran82@student.edu.vn,2001-10-19,Hanoi,,7.97,
-SV083,Vu,Hanh,hanh.vu83@student.edu.vn,2004-08-12,Can Tho,,5.64,
-SV084,Vu,Chi,chi.vu84@student.edu.vn,2007-06-04,Hanoi,8.9,4.4,6.21
-SV085,Dang,An,an.dang85@student.edu.vn,2000-01-05,Hai Phong,8.8,7.21,5.69
-SV086,Phan,Dung,dung.phan86@student.edu.vn,2003-06-05,Hanoi,6.57,,
-SV087,Nguyen,Chi,chi.nguyen87@student.edu.vn,2005-10-11,Can Tho,5.87,,
-SV088,Dang,An,an.dang88@student.edu.vn,2007-01-31,Da Nang,8.2,4.93,
-SV089,Tran,Trang,trang.tran89@student.edu.vn,1998-02-05,Can Tho,,8.97,8.01
-SV090,Phan,Trang,trang.phan90@student.edu.vn,2008-01-02,Hai Phong,4.82,5.95,
-SV091,Phan,Chi,chi.phan91@student.edu.vn,2002-12-16,Da Nang,7.69,,8.27
-SV092,Pham,An,an.pham92@student.edu.vn,2006-03-05,Can Tho,4.07,,4.97
-SV093,Tran,Dung,dung.tran93@student.edu.vn,2002-08-23,Hanoi,8.89,,4.31
-SV094,Tran,Hanh,hanh.tran94@student.edu.vn,2001-05-05,Hai Phong,,5.44,
-SV095,Tran,Linh,linh.tran95@student.edu.vn,2006-10-10,Hai Phong,,6.56,
-SV096,Tran,Linh,linh.tran96@student.edu.vn,2005-12-21,Da Nang,,6.72,
+SV029,Hoang,Dung,dung.hoang29@student.edu.vn,2001-05-20,Hai Phong,7.0,8.8,4.4
+SV030,Pham,Minh,minh.pham30@student.edu.vn,2002-03-08,Ho Chi Minh,8.6,7.5,6.8
+SV031,Vu,Nam,nam.vu31@student.edu.vn,2001-06-29,Ho Chi Minh,6.2,6.1,5.9
+SV032,Phan,Linh,linh.phan32@student.edu.vn,1999-04-30,Hai Phong,5.8,5.2,5.1
+SV033,Do,Trang,trang.do33@student.edu.vn,2005-05-28,Da Nang,6.1,5.4,8.9
+SV034,Pham,Minh,minh.pham34@student.edu.vn,2007-09-23,Ho Chi Minh,6.9,5.8,9.5
+SV035,Hoang,Khanh,khanh.hoang35@student.edu.vn,2004-01-19,Can Tho,6.0,5.9,6.1
+SV036,Dang,Trang,trang.dang36@student.edu.vn,2004-09-12,Hai Phong,6.3,8.4,6.2
+SV037,Do,Linh,linh.do37@student.edu.vn,2003-02-27,Ho Chi Minh,5.9,5.8,6.0
+SV038,Le,Dung,dung.le38@student.edu.vn,1999-12-03,Hai Phong,6.4,8.7,7.8
+SV039,Le,Minh,minh.le39@student.edu.vn,2004-09-16,Ho Chi Minh,5.7,5.6,5.1
+SV040,Nguyen,Linh,linh.nguyen40@student.edu.vn,2008-12-02,Can Tho,6.2,6.0,9.9
+SV041,Hoang,An,an.hoang41@student.edu.vn,2008-07-05,Da Nang,6.1,5.9,7.6
+SV042,Hoang,Nam,nam.hoang42@student.edu.vn,2004-07-25,Hai Phong,5.8,5.7,5.9
+SV043,Bui,Chi,chi.bui43@student.edu.vn,1999-05-19,Ho Chi Minh,6.0,5.8,5.9
+SV044,Hoang,Dung,dung.hoang44@student.edu.vn,2007-05-11,Can Tho,6.2,8.3,6.1
+SV045,Le,Linh,linh.le45@student.edu.vn,2005-01-02,Ho Chi Minh,5.9,5.7,6.0
+SV046,Pham,Khanh,khanh.pham46@student.edu.vn,2008-04-28,Hai Phong,6.0,8.1,6.2
+SV047,Tran,Khanh,khanh.tran47@student.edu.vn,1999-03-14,Hai Phong,5.8,5.6,5.9
+SV048,Phan,An,an.phan48@student.edu.vn,2003-04-18,Ho Chi Minh,6.2,8.9,6.0
+SV049,Nguyen,Minh,minh.nguyen49@student.edu.vn,2001-07-27,Hai Phong,7.1,9.3,4.3
+SV050,Tran,Nam,nam.tran50@student.edu.vn,1998-01-06,Da Nang,5.9,5.1,5.8
+SV051,Do,Nam,nam.do51@student.edu.vn,2006-05-06,Da Nang,6.0,5.9,7.3
+SV052,Nguyen,Dung,dung.nguyen52@student.edu.vn,2005-01-29,Ho Chi Minh,6.3,6.1,9.2
+SV053,Le,Trang,trang.le53@student.edu.vn,2002-03-13,Da Nang,5.8,5.9,6.0
+SV054,Le,Dung,dung.le54@student.edu.vn,2007-06-06,Hanoi,7.1,6.0,8.2
+SV055,Tran,Linh,linh.tran55@student.edu.vn,2004-01-03,Ho Chi Minh,6.4,5.9,7.8
+SV056,Phan,Binh,binh.phan56@student.edu.vn,2007-12-15,Hanoi,6.2,8.8,6.1
+SV057,Vu,Khanh,khanh.vu57@student.edu.vn,2003-11-20,Hai Phong,6.1,7.5,6.2
+SV058,Tran,Binh,binh.tran58@student.edu.vn,2005-02-13,Hai Phong,6.0,5.7,6.1
+SV059,Bui,Minh,minh.bui59@student.edu.vn,2007-02-17,Hai Phong,5.8,5.9,6.3
+SV060,Dang,Minh,minh.dang60@student.edu.vn,1999-11-15,Da Nang,3.9,6.1,5.8
+SV061,Bui,Dung,dung.bui61@student.edu.vn,2001-08-13,Da Nang,7.3,6.2,6.8
+SV062,Do,Minh,minh.do62@student.edu.vn,1999-07-04,Hai Phong,5.7,4.8,5.6
+SV063,Tran,Trang,trang.tran63@student.edu.vn,2000-11-04,Hanoi,6.0,5.8,4.4
+SV064,Le,Binh,binh.le64@student.edu.vn,1999-03-15,Hanoi,6.1,6.5,8.7
+SV065,Le,Chi,chi.le65@student.edu.vn,1998-12-24,Ho Chi Minh,6.2,5.9,6.0
+SV066,Vu,Nam,nam.vu66@student.edu.vn,2001-05-23,Da Nang,9.6,6.4,8.9
+SV067,Tran,Chi,chi.tran67@student.edu.vn,1998-12-02,Can Tho,4.6,5.9,5.7
+SV068,Bui,Khanh,khanh.bui68@student.edu.vn,2005-08-05,Can Tho,6.0,6.2,9.1
+SV069,Pham,Binh,binh.pham69@student.edu.vn,1998-11-13,Can Tho,8.7,7.2,6.4
+SV070,Hoang,Khanh,khanh.hoang70@student.edu.vn,2008-09-11,Hanoi,6.1,5.9,6.0
+SV071,Phan,Trang,trang.phan71@student.edu.vn,2002-03-03,Can Tho,5.9,5.8,6.0
+SV072,Do,Linh,linh.do72@student.edu.vn,2002-11-20,Da Nang,5.8,5.9,6.1
+SV073,Bui,Chi,chi.bui73@student.edu.vn,1998-01-20,Da Nang,6.4,9.0,9.3
+SV074,Hoang,Chi,chi.hoang74@student.edu.vn,2001-04-28,Ho Chi Minh,4.5,5.8,5.4
+SV075,Dang,Trang,trang.dang75@student.edu.vn,2007-03-18,Da Nang,7.0,6.1,6.2
+SV076,Hoang,Minh,minh.hoang76@student.edu.vn,2002-03-22,Can Tho,5.9,5.7,4.8
+SV077,Bui,Minh,minh.bui77@student.edu.vn,1998-07-08,Hanoi,6.0,6.5,5.6
+SV078,Tran,Binh,binh.tran78@student.edu.vn,2004-10-17,Hanoi,6.1,6.0,8.8
+SV079,Nguyen,Trang,trang.nguyen79@student.edu.vn,2005-04-23,Hai Phong,5.9,8.5,4.6
+SV080,Vu,Nam,nam.vu80@student.edu.vn,2007-10-03,Ho Chi Minh,6.3,7.0,6.1
+SV081,Bui,Trang,trang.bui81@student.edu.vn,2008-01-26,Hanoi,9.1,6.2,5.0
+SV082,Tran,Nam,nam.tran82@student.edu.vn,2001-10-19,Hanoi,6.1,7.6,6.0
+SV083,Vu,Hanh,hanh.vu83@student.edu.vn,2004-08-12,Can Tho,6.0,5.9,6.1
+SV084,Vu,Chi,chi.vu84@student.edu.vn,2007-06-04,Hanoi,8.4,4.5,6.3
+SV085,Dang,An,an.dang85@student.edu.vn,2000-01-05,Hai Phong,8.9,7.1,5.6
+SV086,Phan,Dung,dung.phan86@student.edu.vn,2003-06-05,Hanoi,6.2,5.9,6.1
+SV087,Nguyen,Chi,chi.nguyen87@student.edu.vn,2005-10-11,Can Tho,5.8,5.7,5.9
+SV088,Dang,An,an.dang88@student.edu.vn,2007-01-31,Da Nang,7.8,4.9,6.0
+SV089,Tran,Trang,trang.tran89@student.edu.vn,1998-02-05,Can Tho,6.2,8.8,8.1
+SV090,Phan,Trang,trang.phan90@student.edu.vn,2008-01-02,Hai Phong,5.0,5.8,5.7
+SV091,Phan,Chi,chi.phan91@student.edu.vn,2002-12-16,Da Nang,7.4,6.0,8.3
+SV092,Pham,An,an.pham92@student.edu.vn,2006-03-05,Can Tho,4.3,5.8,4.9
+SV093,Tran,Dung,dung.tran93@student.edu.vn,2002-08-23,Hanoi,8.5,6.0,4.4
+SV094,Tran,Hanh,hanh.tran94@student.edu.vn,2001-05-05,Hai Phong,5.9,5.6,6.0
+SV095,Tran,Linh,linh.tran95@student.edu.vn,2006-10-10,Hai Phong,6.0,6.4,6.1
+SV096,Tran,Linh,linh.tran96@student.edu.vn,2005-12-21,Da Nang,6.1,6.6,6.2
 SV097,Le,Hanh,hanh.le97@student.edu.vn,2005-10-07,Hai Phong,,,
-SV098,Do,Khanh,khanh.do98@student.edu.vn,2008-03-05,Hai Phong,9.34,,
-SV099,Vu,An,an.vu99@student.edu.vn,2007-03-16,Da Nang,,,
-SV100,Vu,An,an.vu100@student.edu.vn,2007-10-03,Hanoi,5.69,,5.71
+SV098,Do,Khanh,khanh.do98@student.edu.vn,2008-03-05,Hai Phong,9.7,6.2,6.8
+SV099,Vu,An,an.vu99@student.edu.vn,2007-03-16,Da Nang,6.0,5.9,6.1
+SV100,Vu,An,an.vu100@student.edu.vn,2007-10-03,Hanoi,5.8,6.0,5.7
