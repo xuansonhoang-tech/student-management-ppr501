@@ -18,6 +18,9 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import NoSuchElementException
+from random import randint
+
+from trio import current_time
 
 
 class StudentDataCrawler:
@@ -140,7 +143,8 @@ class StudentDataCrawler:
         """Export cleaned data to CSV."""
         print("Exporting to CSV...")
         Path(output_dir).mkdir(parents=True, exist_ok=True)
-        output_path = os.path.join(output_dir, "students_cleaned.csv")
+        current_time = time.strftime("%Y%m%d_%H%M%S")
+        output_path = os.path.join(output_dir, f"students_cleaned_{current_time}.csv")
         
         available_cols = [col for col in ['student_id', 'first_name', 'last_name', 'email', 'dob', 'hometown', 'math_score', 'english_score', 'literature_score'] if col in df.columns and not df[col].isna().all()]
         export_df = df[available_cols].copy()
@@ -232,7 +236,8 @@ class StudentDataCrawler:
         ax4.grid(True, alpha=0.3, axis='y')
         
         plt.tight_layout()
-        output_path = os.path.join(output_dir, "student_visualizations.png")
+        current_time = time.strftime("%Y%m%d_%H%M%S")
+        output_path = os.path.join(output_dir, f"student_visualizations_{current_time}.png")
         plt.savefig(output_path, dpi=300, bbox_inches='tight')
         plt.close()
         
@@ -264,8 +269,8 @@ def main():
     
     print("\nAll tasks completed successfully!")
     print(f"Check 'crawler/output' for results:")
-    print(f"   - students_cleaned.csv")
-    print(f"   - student_visualizations.png")
+    print(f"   - students_cleaned_{current_time}.csv")
+    print(f"   - student_visualizations_{current_time}.png")
 
 
 if __name__ == "__main__":
